@@ -1,0 +1,36 @@
+{
+  "name": "noscope",
+  "description": "noscope in the browser",
+  "version": "0.0.1",
+  "homepage": "http://github.com/wearefractal/noscope",
+  "repository": "git://github.com/wearefractal/noscope.git",
+  "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
+  "main": "./index.js",
+  "dependencies": {
+    "add-event-listener": "0.0.1"
+  },
+  "devDependencies": {
+    "jquery": "^2.1.0",
+    "should": "^3.1.0",
+    "express": "^3.4.8",
+    "open": "0.0.4",
+    "gulp": "^3.5.6",
+    "gulp-livereload": "^1.2.0",
+    "gulp-jshint": "^1.5.0",
+    "vinyl-source-stream": "^0.1.1",
+    "jshint-stylish": "^0.1.5",
+    "browserify": "^3.33.0"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wearefractal/noscope/raw/master/LICENSE"
+    }
+  ]
+}
