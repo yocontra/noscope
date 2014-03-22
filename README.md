@@ -1,4 +1,4 @@
-# noscope [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![Dependency Status][david-image]][david-url]
+# noscope [![NPM version][npm-image]][npm-url] [![Dependency Status][david-image]][david-url]
 
 
 ## Information
@@ -27,12 +27,6 @@ noscope.start();
 
 [npm-url]: https://npmjs.org/package/noscope
 [npm-image]: https://badge.fury.io/js/noscope.png
-
-[travis-url]: https://travis-ci.org/wearefractal/noscope
-[travis-image]: https://travis-ci.org/wearefractal/noscope.png?branch=master
-
-[coveralls-url]: https://coveralls.io/r/wearefractal/noscope
-[coveralls-image]: https://coveralls.io/repos/wearefractal/noscope/badge.png
 
 [depstat-url]: https://david-dm.org/wearefractal/noscope
 [depstat-image]: https://david-dm.org/wearefractal/noscope.png
