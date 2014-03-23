@@ -1,0 +1,28 @@
+{
+  "name": "x-gif",
+  "version": "0.0.6",
+  "authors": [
+    "Glen Maddern <glenmaddern@gmail.com>"
+  ],
+  "main": "dist/x-gif.html",
+  "description": "The GIF element the internet deserves",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/geelen/x-gif",
+  "_release": "0.0.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.6",
+    "commit": "0a58cd0c094fb41e6ec423a0668abf868b303a90"
+  },
+  "_source": "git://github.com/geelen/x-gif.git",
+  "_target": "~0.0.6",
+  "_originalSource": "x-gif",
+  "_direct": true
+}

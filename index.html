@@ -10,12 +10,19 @@
         background-size: cover;
       }
     </style>
-  </head>
-  <body>
+
+    <script src="bower_components/platform/platform.js"></script>
+    <link rel="import" href="bower_components/x-gif/dist/x-gif.html">
     <script src="dist/noscope.js"></script>
+  </head>
+
+  <body>
+    <x-gif src="res/twerk.gif" bpm="150"></x-gif>
+
+    <audio src="res/loop.wav" autoplay loop></audio>
+
     <script>
       noscope.start();
     </script>
-    <audio src="res/loop.wav" autoplay loop></audio>
   </body>
 </html>

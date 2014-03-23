@@ -1,0 +1,5 @@
+.*
+vendor/
+doc/*.php
+test/*.air
+test/*.html
