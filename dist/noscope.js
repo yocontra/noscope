@@ -43,9 +43,10 @@ var insertImage = _dereq_('./insertImage');
 module.exports = function() {
 
   events.addEventListener(document, 'click', function(e){
-    var x = e.x;
-    var y = e.y;
+    var x = e.pageX;
+    var y = e.pageY;
 
+    console.log(e);
     insertImage('res/hitmarker.png', 80, x, y);
     playAudio('res/hitmarker.mp3');
   });
